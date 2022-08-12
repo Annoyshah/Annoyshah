@@ -23,9 +23,19 @@ Here are some ideas to get you started:
 <br>
   Back-End : Node.js , Express.js , MongoDB , Mongoose
 <br>
+  C
+<br>
   C++
 <br>
   Python
 <br>
-   Basio Knowledge of Docker , Kubernetes , EC2 Management Console , jenkins 
+   Basic Knowledge of Docker , Kubernetes , AWS EC2 Management Console , Networking
 </details>
+<details>
+<summary>Non-Tech skills</summary>
+<br>
+Leadership Ability
+<br>
+Communication Skills
+</details>
+
