@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-<span ><img src="coding.gif"  height="300px" width="300px"></span>
+<span ><img src="coding.gif" align ="center" height="300px" width="800px"></span>
 <details>
 <summary align="left">Tech Skills</summary>
 <br>
