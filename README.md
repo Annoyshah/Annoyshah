@@ -43,7 +43,7 @@ Communication Skills
 <h2><b>Wakatime Stats</b></h2>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Annoyshah">
 <h2 align="Center">Contributon Graph</h2>
-<img src="(https://activity-graph.herokuapp.com/graph?username=Annoyshah">
+<div><img src="https://activity-graph.herokuapp.com/graph?username=Annoyshah&theme=dracula"></div>
 
           
           
