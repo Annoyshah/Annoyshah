@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Devops and Back-end Developtment
 - 🌱 I’m currently pursuing B.Tech from Indian Institute of Information Technology Bhopal 
 - 💬 Ask me about JavaScript , Node.js , Mongodb
-- 📫 How to reach me:Email-id : shahamay646@gmail.com
+- 📫 How to reach me:shahamay646@gmail.com 
 
 -->
 
