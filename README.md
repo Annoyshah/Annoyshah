@@ -17,7 +17,7 @@
 
 <span ><img src="coding.gif" align ="center" height="400px" width="800px"></span>
 <details>
-<summary align="left">Tech Skills</summary>
+<summary align="left"><b>Tech Skills</b></summary>
 <br>
   Front-End : HTML , CSS , Javascript
 <br>
@@ -32,7 +32,7 @@
    Basic Knowledge of Docker , Kubernetes , AWS EC2 Management Console , Networking
 </details>
 <details>
-<summary>Non-Tech skills</summary>
+<summary><b>Non-Tech skills</b></summary>
 <br>
 Leadership Ability
 <br>
