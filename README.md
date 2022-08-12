@@ -1,17 +1,16 @@
-### Hi there 👋
+### <h2>Hi there 👋 Myself Amay shah </h2>
+<h3> I'm a Sophomore at IIIT Bhopal </h3>
 
 
-**Annoyshah/Annoyshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on Devops and Back-end Developtment
-- 🌱 I’m currently pursuing B.tech from Indian Institute of Information Technology Bhopal 
-- 🤔 I’m looking for help with DevOps
+- 🌱 I’m currently pursuing B.Tech from Indian Institute of Information Technology Bhopal 
 - 💬 Ask me about JavaScript , Node.js , Mongodb
 - 📫 How to reach me:Email-id : shahamay646@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact:
+
 -->
 
 <span ><img src="coding.gif" align ="center" height="400px" width="800px"></span>
