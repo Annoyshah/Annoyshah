@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact:
 -->
-<div align="left" ><img src="coding.gif" align="left" height="300px" width="300px"></div>
+
+<span align="left" ><img src="coding.gif" align="left" height="300px" width="300px"></span>
+<details>
+<summary>Tech Skills</summary>
+<br>
+  Front-End : HTML , CSS , Javascript
+<br>
+  Back-End : Node.js , Express.js , MongoDB , Mongoose
+<br>
+  C++
+<br>
+  Python
+<br>
+   Basio Knowledge of Docker , Kubernetes , EC2 Management Console , jenkins 
+</details>
