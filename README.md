@@ -11,7 +11,7 @@
 - 💬 Ask me about JavaScript , Node.js , Mongodb
 - 📫 How to reach me:shahamay646@gmail.com 
 - 😎 I'm an Endeavour user too
-- 🤩 I'm also having intrests in AI/ML and Blockchain. 
+- 🤩 I'm also having keen intrests in fields like AI/ML and Blockchain. 
 
 -->
 
