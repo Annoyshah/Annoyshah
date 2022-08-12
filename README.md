@@ -38,4 +38,6 @@ Leadership Ability
 <br>
 Communication Skills
 </details>
+[![Amay's GitHub stats]
+<img src="https://github.com/anuraghazra/github-readme-stats">
 
