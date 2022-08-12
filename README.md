@@ -38,6 +38,6 @@ Leadership Ability
 <br>
 Communication Skills
 </details>
-[![Amay's GitHub stats]
+<h2><b>Amay's Github stats</b></h2>
 <img src ="https://github-readme-stats.vercel.app/api?username=Annoyshah">
 
