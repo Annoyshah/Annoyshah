@@ -1,5 +1,5 @@
 ### <h2>Hi there 👋 Myself Amay shah </h2>
-<h3> I'm a Sophomore at IIIT Bhopal </h3>
+<h3> I'm a Sophomore at IIIT Bhopal.</h3>
 
 
 
