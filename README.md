@@ -13,7 +13,7 @@
 
 -->
 
-<span ><img src="coding.gif" align ="center" height="400px" width="800px"></span>
+<span ><img src="coding.gif" align ="center" height="400px" width="600px"></span>
 <details>
 <summary align="left">Tech Skills</summary>
 <br>
