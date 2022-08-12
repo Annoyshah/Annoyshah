@@ -47,7 +47,9 @@ Communication Skills
 
 <div><img src ="https://img.shields.io/github/commit-activity/m/Annoyshah/Annoyshah">
   <img src="https://img.shields.io/github/followers/Annoyshah?style=social">
-  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FShah7Amay%3Ft%3D-EWskL_btTv3sZo17npzfw%26s%3D09"></div>
+  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FShah7Amay%3Ft%3D-EWskL_btTv3sZo17npzfw%26s%3D09">
+<img src="https://img.shields.io/reddit/user-karma/combined/Annoyshah0612?style=social"</div>
+  
   </div>
 
           
