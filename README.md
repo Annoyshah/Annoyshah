@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-<span align="left" ><img src="coding.gif" align="left" height="300px" width="300px"></span>
+<span ><img src="coding.gif"  height="300px" width="300px"></span>
 <details>
-<summary>Tech Skills</summary>
+<summary align="left">Tech Skills</summary>
 <br>
   Front-End : HTML , CSS , Javascript
 <br>
