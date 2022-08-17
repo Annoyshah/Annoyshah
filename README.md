@@ -15,7 +15,7 @@
 
 -->
 
-<span ><img src="coding.gif" align ="center" height="400px" width="800px"></span>
+<span align="center" ><img src="coding.gif" align ="center" height="400px" width="600px" padding="40 40 px"></span>
 <details>
 <summary align="left"><b>Tech Skills</b></summary>
 <br>
