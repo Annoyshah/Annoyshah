@@ -53,9 +53,7 @@ Communication Skills
 <img src="https://img.shields.io/reddit/user-karma/combined/Annoyshah0612?style=social"</div>
   
   </div>
-  <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annoyshah&theme=dark">
-  </div>
+ 
 
           
           
