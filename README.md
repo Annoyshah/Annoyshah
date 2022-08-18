@@ -13,7 +13,7 @@
 - 😎 I'm an Endeavour user too
 - 🤩 I'm also having keen intrests in fields like AI/ML and Blockchain. 
 
--->
+
 
 <span align="center" ><img src="coding.gif" align ="center" height="400px" width="600px" padding="40 40 px"></span>
 <details>
@@ -51,6 +51,9 @@ Communication Skills
   <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FShah7Amay%3Ft%3D-EWskL_btTv3sZo17npzfw%26s%3D09">
 <img src="https://img.shields.io/reddit/user-karma/combined/Annoyshah0612?style=social"</div>
   
+  </div>
+  <div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annoyshah&theme=dark">
   </div>
 
           
