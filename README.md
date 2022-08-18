@@ -38,8 +38,9 @@ Leadership Ability
 <br>
 Communication Skills
 </details>
-<h2><b>Amay's Github stats</b></h2>
-<img src ="https://github-readme-stats.vercel.app/api?username=Annoyshah">
+<h2 align="center"><b>Amay's Github stats</b></h2>
+<div><img src ="https://github-readme-stats.vercel.app/api?username=Annoyshah">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annoyshah&theme=dark"></div>
 <!-- <h2><b>Wakatime Stats</b></h2>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Annoyshah"> -->
 <h2 align="Center">Contributon Graph</h2>
