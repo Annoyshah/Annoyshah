@@ -19,35 +19,14 @@
 <details>
 <summary align="left"><b>Tech Skills</b></summary>
 <br>
-  Front-End : <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-       <img src = "https://github.com/devicons/devicon/tree/master/icons/javascript" title="" alt="" width="40" height="40"/>&nbsp;
-  
-    </div>
+  Front-End : HTMl5 , CSS3 , Javascript
+ 
+<br>
+  Back-End : Node.js , Expresss.js , MongoDB , Mongoose
   
 <br>
-  Back-End : <div> 
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/nodejs/nodejs-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/express/express-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/mongodb/mongodb-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/flask/flask-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-    <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-    <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-  
-  </div>
-<br>
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-<br>
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-<br>
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-<br>
-   DevOps skills : 
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
+   DevOps skills : kubernetes(basic) , Jenkins(basic) , Docker(Intermediate) , Git and Github Actions , Shell Scripting (Basic) , Groovy Script (basic) , YAML(Intermediate)
+
 </details>
 <details>
 <summary><b>Non-Tech skills</b></summary>
