@@ -28,10 +28,10 @@
   
 <br>
   Back-End : <div> 
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/nodejs" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/express" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/mongodb" title="" alt="" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/tree/master/icons/flask" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/nodejs/nodejs-original-svg" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/express/express-original-svg" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/mongodb/mongodb-original-svg" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/flask/flask-original-svg" title="" alt="" width="40" height="40"/>&nbsp;
     <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
     <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
   
