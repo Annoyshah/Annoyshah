@@ -21,18 +21,33 @@
 <br>
   Front-End : <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+       <img src = "https://github.com/devicons/devicon/tree/master/icons/javascript" title="" alt="" width="40" height="40"/>&nbsp;
+  
     </div>
   
 <br>
-  Back-End : Node.js , Express.js , MongoDB , Mongoose
+  Back-End : <div> 
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/nodejs" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/express" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/mongodb" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/tree/master/icons/flask" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
+  
+  </div>
 <br>
-  C
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
 <br>
-  C++
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
 <br>
-  Python
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
 <br>
-   Basic Knowledge of Docker , Kubernetes , AWS EC2 Management Console , Networking
+   DevOps skills : 
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
+   <img src = "" title="" alt="" width="40" height="40"/>&nbsp;
 </details>
 <details>
 <summary><b>Non-Tech skills</b></summary>
