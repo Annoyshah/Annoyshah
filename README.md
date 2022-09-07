@@ -19,7 +19,10 @@
 <details>
 <summary align="left"><b>Tech Skills</b></summary>
 <br>
-  Front-End : HTML , CSS , Javascript
+  Front-End : <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    </div>
+  
 <br>
   Back-End : Node.js , Express.js , MongoDB , Mongoose
 <br>
