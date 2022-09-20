@@ -10,7 +10,7 @@
 - 🌱 I’m currently pursuing B.Tech from Indian Institute of Information Technology Bhopal 
 - 💬 Ask me about JavaScript , Node.js , Mongodb
 - 📫 How to reach me:shahamay646@gmail.com 
-- 😎 I'm an Endeavour user too
+- 😎 I'm an Endeavour(Bspwm) user too
 - 🤩 I'm also having keen intrests in fields like AI/ML and Blockchain. 
 
 
