@@ -16,8 +16,8 @@ $whoami
 - 🤩 I'm also having keen intrests in fields like AI/ML and Blockchain. 
 
 
+<img src="https://github.com/Annoyshah/Annoyshah/blob/main/AmayOp.jpg">
 
-<span align="center" ><img src="coding.gif" align ="center" height="400px" width="600px" padding="40 40 px"></span>
 <details>
 <summary align="left"><b>Tech Skills</b></summary>
 <br>
