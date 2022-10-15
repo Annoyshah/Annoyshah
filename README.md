@@ -25,7 +25,7 @@ $whoami
 <h3>Programming languages </h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40">
- <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40">
 
 <h3> Frontend dev skills</h3><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40">
@@ -39,7 +39,7 @@ $whoami
   <div>
   <h3>Backend dev skills</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node js" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="node js" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" alt="node js" width="40">
